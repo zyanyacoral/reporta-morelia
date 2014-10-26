@@ -1,7 +1,7 @@
 Para instalar larvel lo haces por medio de composer
 ejecutando desde una terminal cmd el siguiente comando:
 composer global require "laravel/installer=~1.1"
-para probar el proyecto
+para probar el proyecto.
 1.-Descarga el código y la base de datos desde github desde esta liga:
 github-windows://openRepo/https://github.com/zyanyacoral/reporta-morelia
 2.-Instala la dependeicas de Laravel: con el siguiente comando 
